@@ -1,0 +1,13 @@
+C:\Users\MSI\source\repos\SampleDI\SampleDI\bin\Debug\netcoreapp3.1\SampleDI.exe
+C:\Users\MSI\source\repos\SampleDI\SampleDI\obj\Debug\netcoreapp3.1\SampleDI.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\SampleDI\SampleDI\obj\Debug\netcoreapp3.1\SampleDI.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\SampleDI\SampleDI\obj\Debug\netcoreapp3.1\SampleDI.AssemblyInfo.cs
+C:\Users\MSI\source\repos\SampleDI\SampleDI\bin\Debug\netcoreapp3.1\SampleDI.deps.json
+C:\Users\MSI\source\repos\SampleDI\SampleDI\bin\Debug\netcoreapp3.1\SampleDI.runtimeconfig.json
+C:\Users\MSI\source\repos\SampleDI\SampleDI\bin\Debug\netcoreapp3.1\SampleDI.runtimeconfig.dev.json
+C:\Users\MSI\source\repos\SampleDI\SampleDI\bin\Debug\netcoreapp3.1\SampleDI.dll
+C:\Users\MSI\source\repos\SampleDI\SampleDI\bin\Debug\netcoreapp3.1\SampleDI.pdb
+C:\Users\MSI\source\repos\SampleDI\SampleDI\obj\Debug\netcoreapp3.1\SampleDI.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\SampleDI\SampleDI\obj\Debug\netcoreapp3.1\SampleDI.dll
+C:\Users\MSI\source\repos\SampleDI\SampleDI\obj\Debug\netcoreapp3.1\SampleDI.pdb
+C:\Users\MSI\source\repos\SampleDI\SampleDI\obj\Debug\netcoreapp3.1\SampleDI.genruntimeconfig.cache
